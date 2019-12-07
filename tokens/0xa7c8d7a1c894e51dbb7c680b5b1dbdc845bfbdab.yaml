@@ -1,0 +1,11 @@
+---
+addr: '0xa7c8d7a1c894e51dbb7c680b5b1dbdc845bfbdab'
+decimals: 5
+description: >-
+  Stox is an open source, Bancor based prediction market platform. Using the wisdom of the crowd, every
+  day people will be able to predict and trade the outcome of events in almost any imaginable category:
+  Finance, sports, politics and even the weather.
+links:
+- Whitepaper: https://www.speedkingtoken.icus/assets/stox-whitepaper.pdf
+name: Stox
+symbol: STX
